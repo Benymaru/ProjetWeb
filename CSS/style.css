@@ -1,0 +1,239 @@
+html *
+{
+   color: rgb(0, 0, 0) ;
+   font-family: Helvetica, sans-serif ;
+}
+
+body 
+{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+header
+{
+    display : flex;
+    align-items: center;
+    font-size: 14px;
+}
+
+.box 
+{
+    display: flex;
+    width : 100%;
+}
+
+
+.gamecube 
+{
+    flex: 0.7;
+}
+
+.number 
+{
+    position : relative;
+    flex: 0.25;
+    font-weight: bold;
+    top : 25px;
+}
+
+.call
+{
+    color:grey;
+
+}
+.logos
+{
+    position : relative;
+    flex: 0.3;
+    top : 25px;
+}
+
+/*Taille des logos des réseaux sociaux*/
+
+#gamecube
+{
+    width : 50px;
+    height : 50px;
+}
+
+#tt
+{
+    width : 42px;
+    height : 40px;
+}
+
+#fb
+{
+    width : 40px;
+    height : 40px;
+}
+
+#ggl
+{
+    width : 40px;
+    height : 40px;
+}
+
+#lkdn
+{
+    width : 40px;
+    height : 40px;
+}
+
+#menu
+{
+    position : relative;
+    width : 40px;
+    height : 40px;
+    left : 130px;
+}
+
+.container
+{
+    width : 100%;
+    
+}
+
+.content
+{
+    width : 100%;
+    position : relative;
+    
+}
+
+.content img
+{
+    width : 100%;
+}
+
+.text
+{
+    position : absolute;
+    top: 100px;
+    left : 250px;
+    color : white;
+    font-size: 25px;
+}
+
+.text2
+{
+    color : white;
+}
+
+.bout
+{
+    color : rgb(176, 247, 11);
+}
+
+.para
+{
+    color : grey;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.Houses
+{
+    width : 340px;
+    height : 400px;
+}
+
+.box2 
+{
+    display: flex;
+    width : 100%;
+}
+
+.About 
+{
+    flex: 0.6;
+    position : relative;
+    top: 150px;
+    left : 250px;
+}
+
+.House5 
+{
+    flex: 0.4;
+    position : relative;
+    top: 150px;
+}
+
+.box3 
+{
+    display: flex;
+    width : 100%;
+}
+
+.Latest
+{
+    flex: 0.4;
+    position : relative;
+    top: 175px;
+    left : 250px;
+}
+
+.All
+{
+    flex: 0.6;
+    position : relative;
+    top: 175px;
+    left : 250px;
+}
+
+.All0
+{
+    color : rgb(176, 247, 11);
+    font-weight: bold;
+}
+
+.Build
+{
+    font-weight: bold;
+}
+
+.Inte
+{
+    font-weight: bold;
+}
+
+.View
+{
+    color:grey;
+    font-style: italic;
+}
+
+.box4
+{
+    display: flex;
+    width : 100%;
+}
+
+.House1
+{
+    flex: 0.25;
+    position : relative;
+    top: 200px;
+}
+
+.House2
+{
+    flex: 0.25;
+    position : relative;
+    top: 200px;
+}
+
+.House3
+{
+    flex: 0.25;
+    position : relative;
+    top: 200px;
+}
+
+.House4
+{
+    flex: 0.25;
+    position : relative;
+    top: 200px;
+}
