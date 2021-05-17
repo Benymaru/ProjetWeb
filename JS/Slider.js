@@ -11,4 +11,4 @@ function ChangeSlide(sens) {
     console.log(numero);
 
 }
-setTimeout("ChangeSlide(1)", 1000);
+setTimeout("ChangeSlide(1)", 15000);
